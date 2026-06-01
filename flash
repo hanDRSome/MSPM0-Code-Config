@@ -1,0 +1,18 @@
+# !/bin/bash
+JLINK="/d/Assist/SEGGER/JLink_V926/JLink.exe"
+
+if [ ! -f "$JLINK" ]; then
+    echo "Error: JLink.exe not found at $JLINK"
+    exit 1
+fi
+
+echo "=== Flashing ==="
+
+"$JLINK" -device MSPM0G3507 -if SWD -speed 1000 -autoconnect 1 << JLinkEOF
+loadfile build/demo.elf
+r
+g
+exit
+JLinkEOF
+
+echo "=== Done ==="

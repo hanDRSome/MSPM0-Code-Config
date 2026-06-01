@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Flash",
+      "type": "process",
+      "command": "D:\\Env\\msys2\\usr\\bin\\bash.exe",
+      "args": ["${workspaceFolder}/flash"],
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}
+

@@ -1,0 +1,1 @@
+arm-none-eabi-gcc  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -mcpu=cortex-m0plus -mthumb -T D:/ti/mspm0_sdk/source/ti/devices/msp/m0p/linker_files/gcc/mspm0g3507.lds -Wl,-Map=demo.map -Wl,--gc-sections -Wl,--print-memory-usage @CMakeFiles\demo.dir\objects1.rsp -o demo.elf  -lc -lnosys

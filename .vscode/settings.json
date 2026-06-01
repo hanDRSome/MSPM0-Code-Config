@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.defaultProfile.windows": "MSYS",
+    "terminal.integrated.profiles.windows": {
+      "MSYS": {
+        "path": "D:/Env/msys2/msys2_shell.cmd",
+        "args": ["-defterm", "-here", "-no-start", "-use-full-path"],
+        "icon": "terminal-bash"
+      }
+    }
+}

@@ -1,0 +1,368 @@
+[
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\main.c.obj -c E:\\Project\\MCU\\M0\\GCC\\empty\\main.c",
+  "file": "E:/Project/MCU/M0/GCC/empty/main.c",
+  "output": "CMakeFiles/demo.dir/main.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\ti_msp_dl_config.c.obj -c E:\\Project\\MCU\\M0\\GCC\\empty\\ti_msp_dl_config.c",
+  "file": "E:/Project/MCU/M0/GCC/empty/ti_msp_dl_config.c",
+  "output": "CMakeFiles/demo.dir/ti_msp_dl_config.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\startup_system_files\\gcc\\startup_mspm0g350x_gcc.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\startup_system_files\\gcc\\startup_mspm0g350x_gcc.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/devices/msp/m0p/startup_system_files/gcc/startup_mspm0g350x_gcc.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/devices/msp/m0p/startup_system_files/gcc/startup_mspm0g350x_gcc.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_adc12.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_adc12.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_adc12.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_adc12.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_aes.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_aes.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_aes.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_aes.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_aesadv.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_aesadv.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_aesadv.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_aesadv.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_common.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_common.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_common.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_common.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_comp.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_comp.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_comp.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_comp.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_crc.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_crc.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_crc.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_crc.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_crcp.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_crcp.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_crcp.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_crcp.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_dac12.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_dac12.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_dac12.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_dac12.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_dma.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_dma.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_dma.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_dma.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_flashctl.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_flashctl.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_flashctl.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_flashctl.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_gpamp.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_gpamp.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_gpamp.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_gpamp.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_gpio.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_gpio.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_gpio.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_gpio.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_i2c.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_i2c.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_i2c.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_i2c.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_i2s.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_i2s.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_i2s.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_i2s.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_iwdt.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_iwdt.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_iwdt.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_iwdt.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_keystorectl.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_keystorectl.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_keystorectl.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_keystorectl.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_lcd.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_lcd.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_lcd.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_lcd.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_lfss.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_lfss.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_lfss.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_lfss.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_mathacl.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_mathacl.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_mathacl.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_mathacl.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_mcan.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_mcan.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_mcan.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_mcan.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_npu.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_npu.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_npu.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_npu.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_opa.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_opa.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_opa.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_opa.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_rtc.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_rtc.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_rtc.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_rtc.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_rtc_a.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_rtc_a.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_rtc_a.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_rtc_a.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_rtc_b.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_rtc_b.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_rtc_b.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_rtc_b.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_rtc_common.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_rtc_common.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_rtc_common.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_rtc_common.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_scratchpad.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_scratchpad.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_scratchpad.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_scratchpad.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_spgss.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_spgss.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_spgss.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_spgss.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_spi.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_spi.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_spi.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_spi.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_tamperio.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_tamperio.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_tamperio.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_tamperio.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_timer.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_timer.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_timer.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_timer.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_timera.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_timera.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_timera.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_timera.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_timerb.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_timerb.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_timerb.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_timerb.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_timerg.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_timerg.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_timerg.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_timerg.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_trng.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_trng.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_trng.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_trng.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_uart.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_uart.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_uart.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_uart.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicomm.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicomm.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_unicomm.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_unicomm.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicommi2cc.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicommi2cc.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_unicommi2cc.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_unicommi2cc.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicommi2ct.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicommi2ct.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_unicommi2ct.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_unicommi2ct.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicommspi.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicommspi.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_unicommspi.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_unicommspi.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicommuart.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_unicommuart.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_unicommuart.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_unicommuart.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_vref.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_vref.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_vref.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_vref.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_wwdt.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\dl_wwdt.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/dl_wwdt.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/dl_wwdt.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\dl_factoryregion.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\dl_factoryregion.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/dl_factoryregion.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/dl_factoryregion.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\dl_interrupt.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\dl_interrupt.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/dl_interrupt.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/dl_interrupt.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0c1105_c1106.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0c1105_c1106.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c1105_c1106.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c1105_c1106.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0c110x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0c110x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g1x0x_g3x0x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g1x0x_g3x0x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g352x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g352x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g352x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g352x.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g511x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g511x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g511x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g511x.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g518x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0g518x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g518x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g518x.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0gx218_gx207.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0gx218_gx207.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx218_gx207.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx218_gx207.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0gx51x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0gx51x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0h321x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0h321x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l111x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l111x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l11xx_l13xx.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l11xx_l13xx.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l122x_l222x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l122x_l222x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c.obj"
+},
+{
+  "directory": "E:/Project/MCU/M0/GCC/empty/build",
+  "command": "arm-none-eabi-gcc -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__ -D__MSPM0__ -ID:\\ti\\mspm0_sdk\\source -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p -ID:\\ti\\mspm0_sdk\\source\\ti\\devices\\msp\\m0p\\driverlib -ID:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p -ID:\\ti\\mspm0_sdk\\source\\third_party\\CMSIS\\Core\\Include -IE:\\Project\\MCU\\M0\\GCC\\empty  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g -o CMakeFiles\\demo.dir\\D_\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l211x_l112x.c.obj -c D:\\ti\\mspm0_sdk\\source\\ti\\driverlib\\m0p\\sysctl\\dl_sysctl_mspm0l211x_l112x.c",
+  "file": "D:/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l211x_l112x.c",
+  "output": "CMakeFiles/demo.dir/D_/ti/mspm0_sdk/source/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l211x_l112x.c.obj"
+}
+]
