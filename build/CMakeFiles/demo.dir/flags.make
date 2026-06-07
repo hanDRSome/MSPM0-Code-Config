@@ -6,5 +6,5 @@ C_DEFINES = -DDEBUG -DDeviceFamily_MSPM0G3507 -DPART_MSPM0G3507 -D__MSPM0G3507__
 
 C_INCLUDES = -ID:\ti\mspm0_sdk\source -ID:\ti\mspm0_sdk\source\ti\devices\msp\m0p -ID:\ti\mspm0_sdk\source\ti\devices\msp\m0p\driverlib -ID:\ti\mspm0_sdk\source\ti\driverlib\m0p -ID:\ti\mspm0_sdk\source\third_party\CMSIS\Core\Include -IE:\Project\MCU\M0\GCC\empty
 
-C_FLAGS =  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections -g
+C_FLAGS =  -mcpu=cortex-m0plus -mthumb -Wall -O0 -g -ffunction-sections -fdata-sections --specs=nano.specs --specs=nosys.specs -g
 
